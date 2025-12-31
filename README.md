@@ -4,7 +4,7 @@
 ## Tech Stack
 
 **Backend**
-- `Java` `Spring Boot` `Spring MVC` `Spring Security` `JPA (Hibernate)` `Querydsl`
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
