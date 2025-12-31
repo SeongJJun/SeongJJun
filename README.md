@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello, I'm Seong Jun! 👋
+
+
+## Tech Stack
+
+**Backend**
+- `Java` `Spring Boot` `Spring MVC` `Spring Security` `JPA (Hibernate)` `Querydsl`
+
+
 
 <!--
 **SeongJJun/SeongJJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
