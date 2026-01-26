@@ -14,7 +14,7 @@
   />
 </p>
 
-</br>
+---
 
 ### 🛠️ Tech Stack
 
@@ -41,7 +41,7 @@
 ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ---
-
+### 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeongJJun&show_icons=true&custom_title=Seong%20Jun%27s%20GitHub%20Stats)
 
 ---
