@@ -39,7 +39,7 @@
 ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
 
 <h3 align="center">📊 Seong Jun's Stats</h3>
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=SeongJJun&show_icons=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
