@@ -40,11 +40,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
 
---
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeongJJun&show_icons=true&custom_title=Seong%20Jun%27s%20GitHub%20Stats)
 
---
+---
 
 ### 📮 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjdwns4159@gmail.com)
