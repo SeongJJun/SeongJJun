@@ -14,7 +14,7 @@
   />
 </p>
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -42,7 +42,7 @@
 
 ---
 
-### Contact
+### 📮 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjdwns4159@gmail.com)
 
 <!--
