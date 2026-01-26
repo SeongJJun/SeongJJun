@@ -38,6 +38,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
 
+### 📊 Seong Jun's Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeongJJun&show_icons=true&hide_title=true)
 
 ---
@@ -48,6 +49,7 @@
 <!--
 ### Portfolio
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2ee3731d6cf9802aa05feaf763fef26c?source=copy_link)
+-->
 
 <!--
 **SeongJJun/SeongJJun** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
