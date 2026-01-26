@@ -1,8 +1,4 @@
 ## Hello, I'm Seong Jun! 👋
-
-백엔드 개발자로서 **안정적인 API 설계**, **데이터 파이프라인 구축**, **운영 관점의 모니터링/관측성**까지 함께 고민합니다.  
-Java/Spring 기반으로 서비스 개발을 하며, Kafka와 Grafana 스택을 활용한 운영 경험을 쌓아가고 있습니다.
-
 ---
 
 ### Tech Stack
@@ -34,4 +30,20 @@ Java/Spring 기반으로 서비스 개발을 하며, Kafka와 Grafana 스택을 
 #### Front-End / Etc
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge)
-![Keycloak](https://img.shi)
+![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge)
+
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeongJJun&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongJJun&layout=compact)
+
+---
+
+### Contact
+- GitHub: https://github.com/SeongJJun
+- Email: your-email@example.com
+- Blog/Notion: your-link-here
+
+<!--
+**SeongJJun/SeongJJun** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+-->
