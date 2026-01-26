@@ -1,4 +1,4 @@
-## Seong Jun Park | Backend Engineer
+<h2 align="center">Seong Jun Park</h2>
 
 ### Tech Stack
 
