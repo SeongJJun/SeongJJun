@@ -1,4 +1,4 @@
-## Hello, I'm Seong Jun! 👋
+## Seong Jun Park | Backend Engineer
 
 ### Tech Stack
 
