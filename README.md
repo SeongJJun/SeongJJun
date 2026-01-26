@@ -1,5 +1,19 @@
 <h2 align="center">Seong Jun Park</h2>
 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=170&section=header&text=Seong%20Jun%20Park&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn"
+    alt="header"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=560&lines=Backend+Engineer;Java+%2F+Spring+Boot;Kafka+%2F+Observability;Build+reliable+systems"
+    alt="typing"
+  />
+</p>
+
 ### Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
