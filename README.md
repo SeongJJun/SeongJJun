@@ -1,5 +1,4 @@
 ## Hello, I'm Seong Jun! 👋
----
 
 ### Tech Stack
 
@@ -41,8 +40,8 @@
 
 ### Contact
 - GitHub: https://github.com/SeongJJun
-- Email: your-email@example.com
-- Blog/Notion: your-link-here
+- Email: tjdwns4159@gmail.com
+- Notion: https://www.notion.so/2ee3731d6cf9802aa05feaf763fef26c?source=copy_link
 
 <!--
 **SeongJJun/SeongJJun** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
