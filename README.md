@@ -48,8 +48,7 @@
 
 ### 📮 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjdwns4159@gmail.com)
-[![📒 Notion](https://img.shields.io/badge/📒_Notion-000000?style=for-the-badge)](https://www.notion.so/2ee3731d6cf9802aa05feaf763fef26c)
-
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2ee3731d6cf9802aa05feaf763fef26c)
 
 
 <!--
