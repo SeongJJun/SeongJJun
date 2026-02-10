@@ -42,7 +42,7 @@
 
 ---
 ### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SeongJJun" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeongJJun" />
 
 ---
 
